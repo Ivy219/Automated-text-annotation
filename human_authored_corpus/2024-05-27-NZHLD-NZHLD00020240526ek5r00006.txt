@@ -1,0 +1,10 @@
+Rocket Lab says it has successfully launched the first stage of a Nasa climate change-focused mission from the North Island’s East Coast.
+The craft lifted off from Mahia Peninsula just before 7.15pm on Saturday.
+It is the first of two satellites that will measure, in the form of infrared wavelengths, the heat lost from Earth’s polar regions, as part of Nasa’s Prefire (Polar Radiant Energy in the Far-InfraRed Experiment).
+The second rocket will take flight in the coming weeks.
+“The mission requires two separate satellites to follow similar trajectories but along different paths to overlap with each other every few hours near the Arctic and Antarctica and capture accurate heat loss measurements,” the company said in a statement.
+“Prefire satellites are equipped with a device called a thermopile, similar to sensors found in household thermostats, to measure heat loss at far-infrared wavelengths which have never been systematically measured before.
+“This data collected by the Prefire mission will help to improve climate and ice models and provide better predictions of how the planet’s sea level and weather are likely to change in the future.”
+Rocket Lab founder Peter Beck said the company’s Electron rockets had the “unique benefit” of being able to launch “small satellites to precise orbits on precise schedules”.
+“Climate change-focused missions like this are essential to understanding and safeguarding the future of our planet. It’s a privilege to support them on Electron.”
+It was Rocket Lab’s 48th successful launch, the sixth this year.—RNZ
